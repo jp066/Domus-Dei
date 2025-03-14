@@ -19,7 +19,7 @@
 
 O Domus Dei organiza a vida da paróquia em duas áreas principais:
 
-- **Área de Gestão**: exclusiva para pároco e equipes da paróquia.
+- **Área de Gestão**: exclusiva para pároco e equipes da paróquia.      
 - **Área Livre**: acessível a todos os fiéis cadastrados.
 
 Ele permite desde o agendamento de sacramentos e a escala de ministérios até a visualização de leituras diárias e envio de pedidos de oração.
@@ -28,17 +28,18 @@ Ele permite desde o agendamento de sacramentos e a escala de ministérios até a
 
 ### Área de Gestão (restrita)
 
-- Acesso exclusivo para pároco (verificação única)
-- **Gerenciamento de Missas**: horários e locais
-- **Agendamento de Sacramentos**: confissão, batismo, matrimônio, missas particulares
-- Enquetes com a comunidade
-- Planejamento semanal (calendário)
-- Notificações automáticas para envolvidos
-- Catequese Online (materiais, frequência, alunos)
-- Escala de Ministérios (leitores, músicos, coroinhas)
-- Galeria PASCOM (upload de fotos e vídeos)
-- Área de Finanças
-- Organização de eventos, encontros e retiros
+- **Acesso exclusivo para pároco (verificação única) ou diacono (com permissão do pároco):**
+  - Gerenciamento de Missas: horários e locais
+  - Agendamento de Sacramentos: confissão, batismo, matrimônio, missas particulares.
+  - Enquetes com a comunidade
+- **Padre e coordenadores tem acesso:**
+  - Planejamento semanal (calendário)
+  - Notificações automáticas para envolvidos.
+  - Catequese Online (materiais, frequência, alunos)
+  - Escala de Ministérios (leitores, músicos, coroinhas)
+  - Galeria PASCOM (upload de fotos e vídeos)
+  - Área de Finanças (somente padre e coordenadores do ministério financeiro).
+  - Organização de eventos, encontros e retiros.
 
 ### Área Livre (todos os fiéis)
 
