@@ -28,11 +28,11 @@ Ele permite desde o agendamento de sacramentos e a escala de ministérios até a
 
 ### Área de Gestão (restrita)
 
-- **Acesso exclusivo para pároco (verificação única) ou diacono (com permissão do pároco):**
+- **Acesso exclusivo para pároco com verificação única(id próprio) ou diacono (com permissão do pároco):**
   - Gerenciamento de Missas: horários e locais
   - Agendamento de Sacramentos: confissão, batismo, matrimônio, missas particulares.
   - Enquetes com a comunidade
-- **Padre e coordenadores tem acesso:**
+- **Padre e coordenadores (outro acesso único, diferente do padre) tem acesso:**
   - Planejamento semanal (calendário)
   - Notificações automáticas para envolvidos.
   - Catequese Online (materiais, frequência, alunos)
